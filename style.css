@@ -1,0 +1,13 @@
+h1{
+    font-size: 30px !important;
+}
+button{
+    height: 45px !important;
+    font-size: larger !important;
+}
+canvas{
+    animation-name: canvas_animation;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border: 1px black;
+}
